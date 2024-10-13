@@ -1,6 +1,5 @@
 /*
 Name: Sovit Bhandari
-UID: U83561265
 Project Description: This project implements a basic calculator using a singly linked list to store and evaluate mathematical expressions. It validates the expression by ensuring correct digit and operator placement, supports floating-point numbers, and handles operations such as addition, subtraction, multiplication, and division. The program processes expressions efficiently and includes error handling for invalid cases like division by zero.
 */
 
