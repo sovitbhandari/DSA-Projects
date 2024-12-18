@@ -129,7 +129,7 @@ int main() {
             int comp = db.getSearchComparisons(bookName, randVal);
             maxComparisons = max(maxComparisons, comp);
         }
-        
+
         printTest("Stress Test - Search Complexity", 
                  maxComparisons <= 2 * ceil(log2(STRESS_SIZE)));
 
