@@ -178,3 +178,4 @@ float LinkedCalc<T>::evaluateExpression() {
 
     return totalResult; // Return the final evaluated result of the expression
 }
+
